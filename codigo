@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+  <style>
+  h1{
+      Widht: 300px; /* largura: 300px; pixel */
+      Height: 50px; /* altura: 50px; */
+      Backgroud-color: lightgray; /* cor do fundo: cinza claro */
+      Border-widht: 10px; /* altura da borda: 10px*/
+      Border-style: solid; /* estilo da borda:solida; */
+      Border-color: red
